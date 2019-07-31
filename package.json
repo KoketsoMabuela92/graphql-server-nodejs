@@ -1,0 +1,14 @@
+{
+  "name": "gql-server",
+  "version": "1.0.0",
+  "description": "A demo GraphQL server using NodeJS",
+  "main": "server.js",
+  "repository": "https://github.com/KoketsoMabuela92/graphql-server-nodejs",
+  "author": "Koketso Mabuela",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-graphql": "^0.9.0",
+    "graphql": "^14.4.2"
+  }
+}
